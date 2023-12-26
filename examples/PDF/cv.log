@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.16)  21 DEC 2023 19:25
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.16)  20 DEC 2023 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/patriciabota/Resume/examples/resume
-(/Users/patriciabota/Resume/examples/resume.tex
+**/Users/patriciabota/Resume/examples/cv
+(/Users/patriciabota/Resume/examples/cv.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -623,8 +623,8 @@ File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 )))
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 81.
- (PDF/resume.aux)
-\openout1 = `resume.aux'.
+ (PDF/cv.aux)
+\openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
 LaTeX Font Info:    ... okay on input line 81.
@@ -719,137 +719,89 @@ Package hyperref Info: Link coloring OFF on input line 81.
 \headertextwidth=\skip83
 \headerphotowidth=\skip84
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 85.
+(Font)              scaled to size 10.95116pt on input line 86.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 85.
+(Font)              scaled to size 7.6658pt on input line 86.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 85.
+(Font)              scaled to size 5.47559pt on input line 86.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 85.
+(Font)              scaled to size 10.94882pt on input line 86.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 85.
+(Font)              scaled to size 7.66417pt on input line 86.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 85.
+(Font)              scaled to size 5.47441pt on input line 86.
 LaTeX Font Info:    Font shape `TU/Roboto(5)/m/n' will be
-(Font)              scaled to size 32.0pt on input line 85.
+(Font)              scaled to size 32.0pt on input line 86.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
-(Font)              scaled to size 32.0pt on input line 85.
+(Font)              scaled to size 32.0pt on input line 86.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/b/n' will be
-(Font)              scaled to size 32.0pt on input line 85.
+(Font)              scaled to size 32.0pt on input line 86.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 85.
+(Font)              scaled to size 7.6pt on input line 86.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 85.
+(Font)              scaled to size 7.6pt on input line 86.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 85.
+(Font)              scaled to size 8.0pt on input line 86.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 85.
+(Font)              scaled to size 8.0pt on input line 86.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
-(Font)              scaled to size 6.8pt on input line 85.
+(Font)              scaled to size 6.8pt on input line 86.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 86.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 86.
 
-Overfull \hbox (1.46pt too wide) in paragraph at lines 85--86
-[]$[]$ $[]$$[]$
+Overfull \hbox (1.46pt too wide) in paragraph at lines 86--86
+[]$[]$ $[]$$[]$ 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-(./resume/summary.tex
+(./cv/education.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 22.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 10.
-) (./resume/experience.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 35.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 35.
+(Font)              scaled to size 9.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 35.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 35.
+(Font)              scaled to size 9.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 35.
+(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 35.
+(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 35.
+(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 35.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 35.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 35.
-
-Overfull \hbox (2.92001pt too wide) in paragraph at lines 35--73
-   [] 
- []
-
-
-Overfull \hbox (2.92001pt too wide) in paragraph at lines 35--73
-   [] 
- []
-
-
-Overfull \hbox (2.92001pt too wide) in paragraph at lines 35--73
-   [] 
- []
-
-) (./resume/teaching.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 17.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 17.
-) (./resume/education.tex [1
-
-]) (./resume/skills.tex
-Overfull \hbox (31.0379pt too wide) in alignment at lines 13--39
+(Font)              scaled to size 8.0pt on input line 22.
+) (./cv/skills.tex
+Overfull \hbox (25.2879pt too wide) in alignment at lines 10--38
 [] [] 
  []
 
-) (./resume/collaborations.tex
-File: images/BBC-Logo.png Graphic file (type bmp)
-<images/BBC-Logo.png>
-File: images/xinhua-logo-feature_0.png Graphic file (type bmp)
-<images/xinhua-logo-feature_0.png>
-File: images/tu.jpg Graphic file (type bmp)
-<images/tu.jpg>
-File: images/tartu.png Graphic file (type bmp)
-<images/tartu.png>
-File: images/ircam.png Graphic file (type bmp)
-<images/ircam.png>
-File: images/cwi.png Graphic file (type bmp)
-<images/cwi.png>
-File: images/inect-tec.png Graphic file (type bmp)
-<images/inect-tec.png>
-File: images/esmae.png Graphic file (type bmp)
-<images/esmae.png>
-File: images/IADE.jpeg Graphic file (type bmp)
-<images/IADE.jpeg>
-File: images/iscte.png Graphic file (type bmp)
-<images/iscte.png>
-File: images/ual.jpg Graphic file (type bmp)
-<images/ual.jpg>
-File: images/fcul.png Graphic file (type bmp)
-<images/fcul.png>
-File: images/ist.png Graphic file (type bmp)
-<images/ist.png>
-File: images/hluz.png Graphic file (type bmp)
-<images/hluz.png>
-File: images/unbabel.png Graphic file (type bmp)
-<images/unbabel.png>
-) (./resume/publications.tex) [2] (PDF/resume.aux) ) 
-Here is how much of TeX's memory you used:
- 33802 strings out of 476683
- 691391 string characters out of 5804046
- 1883018 words of memory out of 5000000
- 53422 multiletter control sequences out of 15000+600000
- 515155 words of font info for 130 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 114i,11n,127p,669b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
+) (./cv/experience.tex [1
 
-Output written on PDF/resume.pdf (2 pages).
+] [2]) (./cv/extracurricular.tex) (./cv/honors.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 10.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 10.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
+ [3]) (./cv/certificates.tex) (./cv/presentation.tex) (./cv/writing.tex) (./cv/committees.tex [4]) [5] (PDF/cv.aux) ) 
+Here is how much of TeX's memory you used:
+ 33692 strings out of 476683
+ 689155 string characters out of 5804046
+ 1881018 words of memory out of 5000000
+ 53323 multiletter control sequences out of 15000+600000
+ 515171 words of font info for 132 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 114i,12n,127p,592b,504s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on PDF/cv.pdf (5 pages).
